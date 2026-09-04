@@ -121,7 +121,4 @@ is a simplified learning implementation. It uses an Arduino's `Wire` library,
 two STEP/DIR pairs, and serial `e`/`x` commands. It is intentionally smaller
 than the STM32 production firmware and does not include the MQTT bridge.
 
-## License
 
-MIT for the project code. STM32 HAL/CMSIS components retain their upstream
-licenses in the `Drivers/` folder.
