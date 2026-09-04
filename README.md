@@ -1,4 +1,4 @@
-# STM32F411 Two-Wheel Self-Balancing Robot
+# Two-Wheel Self-Balancing Robot
 
 This is the finished reference project for a two-wheel self-balancing robot.
 It combines an STM32F411 BlackPill, two DRV8825 stepper drivers, an MPU6050,
