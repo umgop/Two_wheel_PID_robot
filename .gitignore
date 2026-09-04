@@ -1,0 +1,23 @@
+# STM32CubeIDE / Eclipse
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.o
+*.d
+*.su
+*.cyclo
+*.launch
+.metadata/
+.settings/.language.settings.xml
+
+# Arduino / ESP32 local configuration
+firmware/esp32_mqtt_bridge/secrets.h
+
+# Editor and OS files
+.DS_Store
+.vscode/
+*.swp
