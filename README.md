@@ -1,3 +1,4 @@
+<img width="4032" height="3024" alt="IMG_8823" src="https://github.com/user-attachments/assets/cf864d6b-59d8-4923-a98f-cc50dc89ba86" />
 # Two-Wheel Self-Balancing Robot
 
 This is the finished reference project for a two-wheel self-balancing robot.
